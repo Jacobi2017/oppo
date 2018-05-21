@@ -16,7 +16,7 @@ import datetime
 import logging
 import configue
 class Oppo_spider:
-    #......#######################################
+    ########################################
     def __init__(self):
 
         self.s = requests.session()
